@@ -1,0 +1,9 @@
+.dish-title{
+    display: flex;
+    top: 10px;
+    color:black ;
+}
+.dish-clicked{
+    margin-top:10px;
+    margin-bottom:10px;
+}
